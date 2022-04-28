@@ -22,6 +22,8 @@ public class Practica2 {
         System.out.println("Nuevo Cambio en Rama 'New Bracht'");
         
         int [] nums = new int [4];
+        
+        String s = "New word";
                 
                 
     }
