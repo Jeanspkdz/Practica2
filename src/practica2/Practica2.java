@@ -16,6 +16,15 @@ public class Practica2 {
      */
     public static void main(String[] args) {
         System.out.println("Prueba");
+        
+        System.out.println("Nuevo Cambio");
+        
+        System.out.println("Nuevo Cambio en Rama 'New Bracht'");
+        
+        int [] nums = new int [4];
+        
+        String s = "New word";
+                
                 
         System.out.println("Errror solucionada - Fix");
     }
